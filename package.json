@@ -1,6 +1,6 @@
 {
   "name": "erit-ytdl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A fork of ytdl-core-discord",
   "main": "index.js",
   "keywords": [
